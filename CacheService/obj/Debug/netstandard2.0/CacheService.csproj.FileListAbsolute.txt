@@ -1,0 +1,9 @@
+C:\Users\ab\source\repos\ConsoleApp1\CacheService\bin\Debug\netstandard2.0\CacheService.deps.json
+C:\Users\ab\source\repos\ConsoleApp1\CacheService\bin\Debug\netstandard2.0\CacheService.dll
+C:\Users\ab\source\repos\ConsoleApp1\CacheService\obj\Debug\netstandard2.0\CacheService.csprojAssemblyReference.cache
+C:\Users\ab\source\repos\ConsoleApp1\CacheService\obj\Debug\netstandard2.0\CacheService.csproj.CoreCompileInputs.cache
+C:\Users\ab\source\repos\ConsoleApp1\CacheService\obj\Debug\netstandard2.0\CacheService.AssemblyInfoInputs.cache
+C:\Users\ab\source\repos\ConsoleApp1\CacheService\obj\Debug\netstandard2.0\CacheService.AssemblyInfo.cs
+C:\Users\ab\source\repos\ConsoleApp1\CacheService\bin\Debug\netstandard2.0\CacheService.pdb
+C:\Users\ab\source\repos\ConsoleApp1\CacheService\obj\Debug\netstandard2.0\CacheService.dll
+C:\Users\ab\source\repos\ConsoleApp1\CacheService\obj\Debug\netstandard2.0\CacheService.pdb
