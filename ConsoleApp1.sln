@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.28803.352
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{6530337D-721A-4F43-97B4-855A134A5771}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{6530337D-721A-4F43-97B4-855A134A5771}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CacheService", "CacheService\CacheService.csproj", "{89BDB466-DB99-48DD-9BD8-E71F129752C4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CacheService", "CacheService\CacheService.csproj", "{89BDB466-DB99-48DD-9BD8-E71F129752C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CacheServiceTest", "CacheServiceTest\CacheServiceTest.csproj", "{D20BFECF-D17F-4ED6-8ABE-E69CA0F944B2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{89BDB466-DB99-48DD-9BD8-E71F129752C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{89BDB466-DB99-48DD-9BD8-E71F129752C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{89BDB466-DB99-48DD-9BD8-E71F129752C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D20BFECF-D17F-4ED6-8ABE-E69CA0F944B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D20BFECF-D17F-4ED6-8ABE-E69CA0F944B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D20BFECF-D17F-4ED6-8ABE-E69CA0F944B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D20BFECF-D17F-4ED6-8ABE-E69CA0F944B2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
